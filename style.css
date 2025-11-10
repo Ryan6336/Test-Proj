@@ -40,7 +40,7 @@
 
 /*Background shi*/
 .rigby {
-    background:url('img/rigbycat-rigby.gif');
+    background:url('img/charlie.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100vh;
 }
@@ -62,4 +62,5 @@ label {color: whitesmoke;}
 			color: white;}
 
 /*Home*/
+
 .home-head {text-align: center;}
