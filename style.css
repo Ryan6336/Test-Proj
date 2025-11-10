@@ -1,0 +1,65 @@
+/*nav stuff*/
+
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position: sticky;
+  top: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.show {display:block;}
+
+/*Background shi*/
+.rigby {
+    background:url('img/rigbycat-rigby.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+.Me {background:url('img/kingvon.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;}
+.interestbg {
+	background:url('img/hasan.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+/*Contact*/
+label {color: whitesmoke;}
+.complaints {text-align: center;}
+.Contacts {position: absolute;
+			bottom: 0;
+			right: 0;
+			color: white;}
+
+/*Home*/
+.home-head {text-align: center;}
